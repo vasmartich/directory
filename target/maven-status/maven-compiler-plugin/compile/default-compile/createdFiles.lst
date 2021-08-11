@@ -1,0 +1,4 @@
+com\phone\directory\DirectoryApplication.class
+com\phone\directory\models\Directory.class
+com\phone\directory\repository\DirectoryRepository.class
+com\phone\directory\controllers\MainController.class
